@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C prgramming and SDLC.
 - 💞️ I’m looking to collaborate on new prjects through which I could contribute and get to learn more.
 - 📫 You can reach me at raghavtulsyan2010@gmail.com
+- 📫 Checkout my [LinkedIn Profile](linkedin.com/in/raghavtulsyan) 
 
 <!---
 RaghavTulsyan/RaghavTulsyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
