@@ -1,7 +1,7 @@
 - ## 👋 Hi, I’m Raghav Tulsyan.
 - 👀 I’m interested in Internet of Things, Embedded Technologies.
 - 🌱 I’m currently learning C prgramming and SDLC.
-- 💞️ I’m looking to collaborate on new prjects through which I could contribute and get to learn more.
+- 💞️ I’m looking to collaborate on new projects through which I could contribute and get to learn more.
 - 📫 You can reach me at raghavtulsyan2010@gmail.com
 - 📫 Checkout my [LinkedIn Profile](linkedin.com/in/raghavtulsyan) 
 
